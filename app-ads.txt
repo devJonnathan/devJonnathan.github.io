@@ -155,3 +155,4 @@ smartadserver.com, 4972, RESELLER, 060d053dcf45cbf3
 smartadserver.com, 4578, RESELLER, 060d053dcf45cbf3
 targetbetter.com, 82228, RESELLER
 undertone.com, 4108, RESELLER
+insticator.com, cadff748-965f-4393-a76e-a8f902512bad, RESELLER, b3511ffcafb23a32
