@@ -210,3 +210,4 @@ playwire.com, 1018531, RESELLER
 dauup.com, 34222, RESELLER, 4daba13e2b0dfd9
 loopme.com, 20775, RESELLER, 6c8d5f95897a5a3b
 media.net, 8cuuq286l, RESELLER
+google.com, pub-5657154924441386, DIRECT, f08c47fec0942fa0
